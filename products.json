@@ -1,1 +1,287 @@
-[]
+[
+  {
+    "n": "1",
+    "title": "1",
+    "stickers": [
+      {
+        "name": "scarfsleeve",
+        "edition": "/ 30 pcs",
+        "usage": "cover",
+        "color": "black / white / sand",
+        "size": "175 x 18 cm",
+        "character": "transformer",
+        "version": "1.01"
+      }
+    ],
+    "imageUrl": "images/placeholder.png",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem magni hic facere ipsum quis. Quas a fugit officia quasi. Ab laudantium accusantium, officia fugiat nisi animi quod omnis odit eos?"
+  },
+  {
+    "n": "2",
+    "title": "2",
+    "stickers": [
+      {
+        "name": "cuffsleeve",
+        "edition": "/ 30 pcs",
+        "usage": "cover",
+        "color": "black / white / sand",
+        "size": "185cm x 18cm",
+        "character": "transformer",
+        "version": "2.01"
+      }
+    ],
+    "imageUrl": "images/placeholder.png",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem magni hic facere ipsum quis. Quas a fugit officia quasi. Ab laudantium accusantium, officia fugiat nisi animi quod omnis odit eos?"
+  },
+  {
+    "n": "3",
+    "title": "3",
+    "stickers": [
+      {
+        "name": "haramaki",
+        "edition": "/ 30 pcs",
+        "usage": "healer",
+        "color": "black / white / sand",
+        "size": "37,5cm x 36cm",
+        "character": "hara",
+        "version": "2.01"
+      }
+    ],
+    "imageUrl": "images/placeholder.png",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem magni hic facere ipsum quis. Quas a fugit officia quasi. Ab laudantium accusantium, officia fugiat nisi animi quod omnis odit eos?"
+  },
+  {
+    "n": "4",
+    "title": "4",
+    "stickers": [
+      {
+        "name": "holster",
+        "edition": "/ 21 pcs",
+        "usage": "storage right",
+        "color": "black",
+        "size": "adjustable",
+        "character": "protector",
+        "version": "4.01"
+      },
+      {
+        "name": "holster",
+        "edition": "/ 10 pcs",
+        "usage": "storage right",
+        "color": "cognac",
+        "size": "adjustable",
+        "character": "protector",
+        "version": "4.02"
+      },
+      {
+        "name": "holster",
+        "edition": "/ 9 pcs",
+        "usage": "storage right",
+        "color": "mouse",
+        "size": "adjustable",
+        "character": "protector",
+        "version": "4.03"
+      },
+      {
+        "name": "holster",
+        "edition": "/ 15 pcs",
+        "usage": "storage right",
+        "color": "virgin",
+        "size": "adjustable",
+        "character": "protector",
+        "version": "4.04"
+      }
+    ],
+    "imageUrl": "images/placeholder.png",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem magni hic facere ipsum quis. Quas a fugit officia quasi. Ab laudantium accusantium, officia fugiat nisi animi quod omnis odit eos?"
+  },
+  {
+    "n": "5",
+    "title": "5",
+    "stickers": [
+      {
+        "name": "bomber",
+        "edition": "/ 10 pcs",
+        "usage": "heat-retentive",
+        "color": "disco_black",
+        "size": "I / II / III / IIII / IIII",
+        "character": "adaptor",
+        "version": "5.01"
+      },
+      {
+        "name": "bomber",
+        "edition": "/ 19 pcs",
+        "usage": "insulating",
+        "color": "ciré_black",
+        "size": "I / II / III / IIII / IIII",
+        "character": "adaptor",
+        "version": "5.02"
+      },
+      {
+        "name": "bomber",
+        "edition": "/ 16 pcs",
+        "usage": "insulating",
+        "color": "navy",
+        "size": "I / II / III / IIII / IIII",
+        "character": "adaptor",
+        "version": "5.03"
+      },
+      {
+        "name": "bomber",
+        "edition": "/ 5 pcs",
+        "usage": "insulating",
+        "color": "grey",
+        "size": "I / II / III / IIII / IIII",
+        "character": "adaptor",
+        "version": "5.04"
+      },
+      {
+        "name": "bomber",
+        "edition": "/ 5 pcs",
+        "usage": "lightweight",
+        "color": "black",
+        "size": "I / II / III / IIII / IIII",
+        "character": "adaptor",
+        "version": "5.05"
+      },
+      {
+        "name": "bomber",
+        "edition": "/ 4 pcs",
+        "usage": "defending",
+        "color": "navy",
+        "size": "I / II / III / IIII / IIII",
+        "character": "adaptor",
+        "version": "5.06"
+      }
+    ],
+    "imageUrl": "images/placeholder.png",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem magni hic facere ipsum quis. Quas a fugit officia quasi. Ab laudantium accusantium, officia fugiat nisi animi quod omnis odit eos?"
+  },
+  {
+    "n": "6",
+    "title": "6",
+    "stickers": [
+      {
+        "name": "coat",
+        "edition": "/ 50 pcs",
+        "usage": "shelter",
+        "color": "navy",
+        "size": "I / II / III / IIII / IIII",
+        "character": "adaptor",
+        "version": "6.01"
+      }
+    ],
+    "imageUrl": "images/placeholder.png",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem magni hic facere ipsum quis. Quas a fugit officia quasi. Ab laudantium accusantium, officia fugiat nisi animi quod omnis odit eos?"
+  },
+  {
+    "n": "7",
+    "title": "7",
+    "stickers": [
+      {
+        "name": "body",
+        "edition": "/ 1",
+        "usage": "cover",
+        "color": "x",
+        "size": "I / II / III / IIII / IIII",
+        "character": "adaptor",
+        "version": "7.01"
+      }
+    ],
+    "imageUrl": "images/placeholder.png",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem magni hic facere ipsum quis. Quas a fugit officia quasi. Ab laudantium accusantium, officia fugiat nisi animi quod omnis odit eos?"
+  },
+  {
+    "n": "7+8",
+    "title": "7+8",
+    "stickers": [
+      {
+        "name": "body",
+        "edition": "/ 1",
+        "usage": "cover",
+        "color": "x",
+        "size": "I / II / III / IIII / IIII",
+        "character": "adaptor",
+        "version": "7.01"
+      },
+      {
+        "name": "sleeves",
+        "edition": "/ 1",
+        "usage": "cover",
+        "color": "x",
+        "size": "I / II / III / IIII / IIII",
+        "character": "adaptor",
+        "version": "8.01"
+      }
+    ],
+    "imageUrl": "images/placeholder.png",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem magni hic facere ipsum quis. Quas a fugit officia quasi. Ab laudantium accusantium, officia fugiat nisi animi quod omnis odit eos?"
+  },
+  {
+    "n": "8",
+    "title": "8",
+    "stickers": [
+      {
+        "name": "sleeves",
+        "edition": "/ 1",
+        "usage": "cover",
+        "color": "x",
+        "size": "I / II / III / IIII / IIII",
+        "character": "adaptor",
+        "version": "8.01"
+      }
+    ],
+    "imageUrl": "images/placeholder.png",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem magni hic facere ipsum quis. Quas a fugit officia quasi. Ab laudantium accusantium, officia fugiat nisi animi quod omnis odit eos?"
+  },
+  {
+    "n": "9",
+    "title": "9",
+    "stickers": [
+      {
+        "name": "core_presets",
+        "edition": "/ 1",
+        "usage": "cover",
+        "color": "x",
+        "size": "I / II / III / IIII / IIII",
+        "character": "adaptor",
+        "version": "9.01 9.02 9.03"
+      }
+    ],
+    "imageUrl": "images/placeholder.png",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem magni hic facere ipsum quis. Quas a fugit officia quasi. Ab laudantium accusantium, officia fugiat nisi animi quod omnis odit eos?"
+  },
+  {
+    "n": "10",
+    "title": "10",
+    "stickers": [
+      {
+        "name": "camper",
+        "edition": "/ 1",
+        "usage": "cover",
+        "color": "x",
+        "size": "I / II / III / IIII / IIII",
+        "character": "adaptor",
+        "version": "10.01"
+      }
+    ],
+    "imageUrl": "images/placeholder.png",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem magni hic facere ipsum quis. Quas a fugit officia quasi. Ab laudantium accusantium, officia fugiat nisi animi quod omnis odit eos?"
+  },
+  {
+    "n": "11",
+    "title": "11",
+    "stickers": [
+      {
+        "name": "hoodsleeve",
+        "edition": "/ 1",
+        "usage": "cover",
+        "color": "x",
+        "size": "I / II / III / IIII / IIII",
+        "character": "transformer",
+        "version": "10.01"
+      }
+    ],
+    "imageUrl": "images/placeholder.png",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem magni hic facere ipsum quis. Quas a fugit officia quasi. Ab laudantium accusantium, officia fugiat nisi animi quod omnis odit eos?"
+  }
+]
